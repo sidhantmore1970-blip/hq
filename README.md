@@ -74,3 +74,4 @@ npm run dev
 ## 🔑 Admin Credentials
 - **Access URL**: Open the site and click **Admin Panel** in the top navigation bar or footer.
 - **Default Passcode**: `hqtech2026` (can be changed in Payment & System Settings)
+# hq
