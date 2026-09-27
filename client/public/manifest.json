@@ -1,0 +1,16 @@
+{
+  "short_name": "HQTech Admin",
+  "name": "HQTechHUB Mobile Admin Portal",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512 192x192"
+    }
+  ],
+  "start_url": "/#admin",
+  "background_color": "#06080d",
+  "theme_color": "#4f46e5",
+  "display": "standalone",
+  "orientation": "portrait"
+}

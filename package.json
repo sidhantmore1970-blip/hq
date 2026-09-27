@@ -1,0 +1,12 @@
+{
+  "name": "hqtechhub",
+  "version": "1.0.0",
+  "private": true,
+  "description": "HQTechHUB - Freelancing Services Showcase & Client Management with Razorpay, PhonePe, and Paytm",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev:server": "node server/index.js",
+    "dev:client": "npm --prefix client run dev",
+    "build": "npm --prefix client run build"
+  }
+}
